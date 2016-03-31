@@ -1,0 +1,28 @@
+name: El Jefe B Photo
+favicon: null
+layout_spectrum: 0.42963585327379405
+typography_spectrum: 0.2234279888216406
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.36618744651786983
+  lightness: 0.2944391597993672
+  saturation: 0.7384443101473153
+  rhythmicContrast: 0.04309682152234018
+purpose: []
